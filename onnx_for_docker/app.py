@@ -33,7 +33,7 @@ def hello():
         json.dump(to_json,f)
         print('Created json!')
     end = time.time()
-    print(begin-end)
+    print(end-begin)
     return True
 
 hello()
