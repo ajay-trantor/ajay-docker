@@ -1,0 +1,5 @@
+flask
+onnxruntime
+pillow
+opencv-python
+numpy
