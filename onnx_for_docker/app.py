@@ -35,3 +35,5 @@ def hello():
     end = time.time()
     print(begin-end)
     return True
+
+hello()
